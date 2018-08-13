@@ -1,0 +1,48 @@
+= Graph & Set Theory terms and definitions
+
+== EN - NL
+
+set theory::
+verzamelingenleer
+
+graph theory::
+grafentheorie
+
+state::
+toestand
+
+transition::
+overgang
+
+finite-state automaton (FSA), finite automaton (FA), finite-state machine (FSM)::
+eindigetoestandsautomaat
+
+finite-state automata (FSA)::
+eindigetoestandsautomaten
+
+deterministic finite state machine (DFA)::
+deterministische eindige automaten
+
+final state (𝑭)::
+eindtoestand
+
+set::
+verzameling
+
+subset::
+deelverzameling
+
+vertex (node)::
+knoop(punt)
+
+edge::
+zijde
+
+directed (graph)::
+gerichte (graaf)
+
+head::
+kop (van de pijl, verzameling etc.)
+
+tail::
+staart (van de pijl, verzameling etc.)
