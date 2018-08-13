@@ -1,0 +1,12 @@
+= Eloquent (EN)
+
+eloquent::
+welbespraakt
+
+nomenclature::
+nomenclatuur
+
+parlance::
+1 : speech; especially : formal debate or parley
+… battle and not parlance should determine his right and title. —John Speed
+2 : manner or mode of speech : idiom The company's computer system had, in computer parlance, "crashed."
